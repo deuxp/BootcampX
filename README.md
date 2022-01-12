@@ -1,8 +1,6 @@
 # BootcampX
 
-- Practiceing skills with postgreSQL
-
-![usage view](https://github.com/deuxp/BootcampX/blob/main/img/psqlREADME.gif)
+- Practicing skills with postgreSQL
 
 ## usage
 
@@ -15,3 +13,5 @@ run any of the queries using: `\i __fileName__` from the `1_queries` folder
 ### dependencies
 
 - postgreSQL
+
+![usage view](https://github.com/deuxp/BootcampX/blob/main/img/psqlREADME.gif)
