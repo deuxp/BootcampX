@@ -7,7 +7,7 @@ CREATE  table cohorts (
 
 CREATE TABLE students (
   id SERIAL PRIMARY KEY NOT NULL,
-  student_name VARCHAR(255),
+  name VARCHAR(255),
   email VARCHAR(255),
   phone VARCHAR(32),
   github VARCHAR(255),
